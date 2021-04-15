@@ -1,1 +1,3 @@
-# calculator
+### Simple calculator using html css and javaScript
+![calculator](https://user-images.githubusercontent.com/20128950/114868240-fd784c80-9df5-11eb-97b3-6b60a90c6a45.png)
+new updates coming soon ...
