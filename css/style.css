@@ -12,17 +12,16 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background-color: grey;
+  background-color: #67688e;
 }
 .text {
-  /* background-color: gray; */
   font-size: 2rem;
   margin-bottom: 40px;
   font-family: "Lobster", cursive;
 }
 .center {
   width: 350px;
-  background-color: black;
+  background-color: #525053;
   border-radius: 20px;
 }
 input[type="text"] {
@@ -61,8 +60,8 @@ input[type="button"]:hover {
 }
 
 input#clear {
-  background: #ff1a1a;
-  border: 1px solid #cc0000;
+  background: #9893da;
+  border: 1px solid #9893da;
   color: white;
 }
 input#equal {
@@ -70,6 +69,6 @@ input#equal {
   margin: 10px 0 10px 0;
   font-size: 40px;
   color: white;
-  background: #ff3d00;
-  border: 1px solid #b32a00;
+  background: #9893da;
+  border: 1px solid #9893da;
 }
