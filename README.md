@@ -1,4 +1,5 @@
 ### Simple calculator using html css and javaScript
-![newcalc](https://user-images.githubusercontent.com/20128950/116782409-31f03780-aa89-11eb-8ffa-17e1ae0c11b5.png)
+![calculator](https://user-images.githubusercontent.com/20128950/124625983-91e6ce00-de7e-11eb-84d4-9a2b888d4e73.png)
+
 
 new updates (scientific) coming soon ...
